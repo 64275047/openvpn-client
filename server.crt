@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=BJ, L=BJ, O=youyuan, OU=yunwei, CN=youyuan CA/name=EasyRSA/emailAddress=yunwei@youyuan.com
+        Validity
+            Not Before: Jun 28 05:55:51 2017 GMT
+            Not After : Jun 26 05:55:51 2027 GMT
+        Subject: C=CN, ST=BJ, L=BJ, O=youyuan, OU=yunwei, CN=server/name=EasyRSA/emailAddress=yunwei@youyuan.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c0:98:9e:a1:2c:61:81:0c:28:c1:c3:39:2d:41:
+                    eb:27:12:c9:f4:eb:22:df:2a:c8:46:fd:07:34:a2:
+                    af:ba:97:e8:81:0c:11:ed:60:ad:1b:12:5b:7a:3a:
+                    1d:0f:d1:16:32:5a:a9:ab:ac:7a:f8:ab:19:fa:2e:
+                    39:d9:f0:93:d5:cd:66:9b:0b:6b:33:89:01:67:8a:
+                    e7:57:14:15:e5:0f:99:a8:85:66:cb:fc:f2:a8:08:
+                    dd:62:e6:8e:ad:d9:3e:80:51:3f:1c:59:14:39:b3:
+                    c2:c5:e9:99:65:ae:68:3a:45:4c:30:5c:10:81:9d:
+                    fa:2c:42:7d:c9:b5:4a:0b:92:5f:15:ea:64:05:8c:
+                    8a:40:06:c8:cf:90:c8:aa:10:0d:01:1d:4e:24:b9:
+                    8b:fc:cf:04:71:42:36:da:5f:74:20:ae:d3:4a:a1:
+                    7a:45:a2:f1:37:a8:4f:15:64:39:d8:98:a6:fa:2f:
+                    b8:35:af:cd:71:e2:75:81:d5:cd:c0:cb:6b:e9:c3:
+                    37:92:74:b5:c2:ba:ca:4d:7d:e0:44:12:30:bd:44:
+                    30:08:dd:88:98:6d:ec:79:72:88:fb:c7:2b:75:b5:
+                    1a:61:f5:ff:55:5f:ab:b0:6a:13:ce:02:1a:05:23:
+                    9e:26:45:ae:9b:38:2b:c9:3d:3e:ef:6c:f7:7d:d5:
+                    6c:21
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                57:EA:B3:19:4C:44:DB:FF:E4:E0:CE:75:4D:8A:C0:54:21:BD:4F:45
+            X509v3 Authority Key Identifier: 
+                keyid:54:46:57:0E:14:67:C2:91:D2:86:F8:44:50:69:3C:32:A5:96:46:AE
+                DirName:/C=CN/ST=BJ/L=BJ/O=youyuan/OU=yunwei/CN=youyuan CA/name=EasyRSA/emailAddress=yunwei@youyuan.com
+                serial:84:CE:DC:51:44:93:D4:5B
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         54:5f:8f:25:ed:ea:4d:22:09:56:4e:62:17:e9:2a:f9:b1:0f:
+         1f:57:ca:23:0b:41:c6:97:5c:8e:b8:4e:7b:db:9e:99:82:8e:
+         64:97:ad:39:b7:54:66:97:99:2a:ff:ef:5a:6e:70:7b:42:e4:
+         20:c7:5f:09:9e:18:14:2f:3a:11:01:45:ac:16:fb:f8:1f:c0:
+         fb:02:9f:dd:6c:b7:33:c7:06:6a:d4:43:c5:61:07:65:29:6c:
+         f8:ee:c2:cc:9a:2d:72:74:da:d7:bc:2f:19:51:82:e5:95:49:
+         42:74:63:0e:c8:f8:bd:35:5b:8b:7b:68:a0:f6:b9:4b:33:91:
+         c7:e5:bb:dd:21:48:81:54:40:13:1f:10:ab:de:9b:d7:4e:43:
+         c0:88:74:50:33:d2:28:92:10:9f:c8:5c:34:06:9d:72:ed:c2:
+         b8:23:d7:4f:48:c5:a5:0c:1c:69:56:2d:b8:b0:b9:a6:98:1e:
+         30:67:b8:ca:f5:51:aa:de:49:4e:81:4d:4d:20:08:9c:81:7e:
+         36:77:b9:03:0b:32:97:89:31:01:9f:48:95:a3:b5:d2:b6:aa:
+         68:7e:0f:ad:8e:57:bc:04:bd:1f:a0:40:c5:c8:61:87:90:78:
+         71:7a:35:09:7a:2a:a5:f0:c0:24:12:24:87:b1:96:f3:cd:e3:
+         89:6e:d0:63
+-----BEGIN CERTIFICATE-----
+MIIFCDCCA/CgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBlDELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAkJKMQswCQYDVQQHEwJCSjEQMA4GA1UEChMHeW91eXVhbjEPMA0G
+A1UECxMGeXVud2VpMRMwEQYDVQQDEwp5b3V5dWFuIENBMRAwDgYDVQQpEwdFYXN5
+UlNBMSEwHwYJKoZIhvcNAQkBFhJ5dW53ZWlAeW91eXVhbi5jb20wHhcNMTcwNjI4
+MDU1NTUxWhcNMjcwNjI2MDU1NTUxWjCBkDELMAkGA1UEBhMCQ04xCzAJBgNVBAgT
+AkJKMQswCQYDVQQHEwJCSjEQMA4GA1UEChMHeW91eXVhbjEPMA0GA1UECxMGeXVu
+d2VpMQ8wDQYDVQQDEwZzZXJ2ZXIxEDAOBgNVBCkTB0Vhc3lSU0ExITAfBgkqhkiG
+9w0BCQEWEnl1bndlaUB5b3V5dWFuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAMCYnqEsYYEMKMHDOS1B6ycSyfTrIt8qyEb9BzSir7qX6IEMEe1g
+rRsSW3o6HQ/RFjJaqausevirGfouOdnwk9XNZpsLazOJAWeK51cUFeUPmaiFZsv8
+8qgI3WLmjq3ZPoBRPxxZFDmzwsXpmWWuaDpFTDBcEIGd+ixCfcm1SguSXxXqZAWM
+ikAGyM+QyKoQDQEdTiS5i/zPBHFCNtpfdCCu00qhekWi8TeoTxVkOdiYpvovuDWv
+zXHidYHVzcDLa+nDN5J0tcK6yk194EQSML1EMAjdiJht7HlyiPvHK3W1GmH1/1Vf
+q7BqE84CGgUjniZFrps4K8k9Pu9s933VbCECAwEAAaOCAWUwggFhMAkGA1UdEwQC
+MAAwEQYJYIZIAYb4QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBH
+ZW5lcmF0ZWQgU2VydmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBRX6rMZTETb/+Tg
+znVNisBUIb1PRTCByQYDVR0jBIHBMIG+gBRURlcOFGfCkdKG+ERQaTwypZZGrqGB
+mqSBlzCBlDELMAkGA1UEBhMCQ04xCzAJBgNVBAgTAkJKMQswCQYDVQQHEwJCSjEQ
+MA4GA1UEChMHeW91eXVhbjEPMA0GA1UECxMGeXVud2VpMRMwEQYDVQQDEwp5b3V5
+dWFuIENBMRAwDgYDVQQpEwdFYXN5UlNBMSEwHwYJKoZIhvcNAQkBFhJ5dW53ZWlA
+eW91eXVhbi5jb22CCQCEztxRRJPUWzATBgNVHSUEDDAKBggrBgEFBQcDATALBgNV
+HQ8EBAMCBaAwDQYJKoZIhvcNAQELBQADggEBAFRfjyXt6k0iCVZOYhfpKvmxDx9X
+yiMLQcaXXI64TnvbnpmCjmSXrTm3VGaXmSr/71pucHtC5CDHXwmeGBQvOhEBRawW
++/gfwPsCn91stzPHBmrUQ8VhB2UpbPjuwsyaLXJ02te8LxlRguWVSUJ0Yw7I+L01
+W4t7aKD2uUszkcflu90hSIFUQBMfEKvem9dOQ8CIdFAz0iiSEJ/IXDQGnXLtwrgj
+109IxaUMHGlWLbiwuaaYHjBnuMr1UareSU6BTU0gCJyBfjZ3uQMLMpeJMQGfSJWj
+tdK2qmh+D62OV7wEvR+gQMXIYYeQeHF6NQl6KqXwwCQSJIexlvPN44lu0GM=
+-----END CERTIFICATE-----
